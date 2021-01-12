@@ -1,6 +1,11 @@
 #!/usr/bin/env node
 
 /**
+ * Forked from https://github.com/geshan/express-app
+ * @file bin/www
+*/
+
+/**
  * Module dependencies.
  */
 
